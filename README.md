@@ -1,2 +1,2 @@
 # trtrwt
-game
+print("hello")
